@@ -1,5 +1,5 @@
 {
-  "projectName": "amplifyproject",
+  "projectName": "amplifyvuejs",
   "version": "3.1",
   "frontend": "javascript",
   "javascript": {
@@ -7,9 +7,11 @@
     "config": {
       "SourceDir": "src",
       "DistributionDir": "dist",
-      "BuildCommand": "npm run-script build",
-      "StartCommand": "npm run-script preview"
+      "BuildCommand": "yarn build",
+      "StartCommand": "yarn preview"
     }
   },
-  "providers": ["awscloudformation"]
+  "providers": [
+    "awscloudformation"
+  ]
 }
