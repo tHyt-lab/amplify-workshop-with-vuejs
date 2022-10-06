@@ -1,19 +1,32 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-amplifyvuejs-dev-73631-authRole",
-      "UnauthRoleArn": "arn:aws:iam::519445893903:role/amplify-amplifyvuejs-dev-73631-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::519445893903:role/amplify-amplifyvuejs-dev-73631-authRole",
+      "AuthRoleName": "amplify-amplifyvuejs-dev-91841-authRole",
+      "UnauthRoleArn": "arn:aws:iam::519445893903:role/amplify-amplifyvuejs-dev-91841-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::519445893903:role/amplify-amplifyvuejs-dev-91841-authRole",
       "Region": "ap-northeast-1",
-      "DeploymentBucketName": "amplify-amplifyvuejs-dev-73631-deployment",
-      "UnauthRoleName": "amplify-amplifyvuejs-dev-73631-unauthRole",
-      "StackName": "amplify-amplifyvuejs-dev-73631",
-      "StackId": "arn:aws:cloudformation:ap-northeast-1:519445893903:stack/amplify-amplifyvuejs-dev-73631/99c950b0-4549-11ed-8086-0e85b3b7f3b9",
-      "AmplifyAppId": "d1zqpbqiw2nht5"
+      "DeploymentBucketName": "amplify-amplifyvuejs-dev-91841-deployment",
+      "UnauthRoleName": "amplify-amplifyvuejs-dev-91841-unauthRole",
+      "StackName": "amplify-amplifyvuejs-dev-91841",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:519445893903:stack/amplify-amplifyvuejs-dev-91841/df8f86b0-4557-11ed-8671-0a40050a8a13",
+      "AmplifyAppId": "d3v2cuh5hr8v06"
+    }
+  },
+  "test": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyvuejs-test-92603-authRole",
+      "UnauthRoleArn": "arn:aws:iam::519445893903:role/amplify-amplifyvuejs-test-92603-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::519445893903:role/amplify-amplifyvuejs-test-92603-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-amplifyvuejs-test-92603-deployment",
+      "UnauthRoleName": "amplify-amplifyvuejs-test-92603-unauthRole",
+      "StackName": "amplify-amplifyvuejs-test-92603",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:519445893903:stack/amplify-amplifyvuejs-test-92603/e697cca0-4558-11ed-931a-06ee386bcabf",
+      "AmplifyAppId": "d3v2cuh5hr8v06"
     },
     "categories": {
       "auth": {
-        "amplifyvuejsc68c20f8": {}
+        "amplifyvuejs0280cec5": {}
       }
     }
   }

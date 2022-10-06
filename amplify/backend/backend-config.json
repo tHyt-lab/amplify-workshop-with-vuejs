@@ -1,6 +1,6 @@
 {
   "auth": {
-    "amplifyvuejsc68c20f8": {
+    "amplifyvuejs0280cec5": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
