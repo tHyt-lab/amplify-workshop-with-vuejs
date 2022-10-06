@@ -10,6 +10,11 @@
       "StackName": "amplify-amplifyvuejs-dev-73631",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:519445893903:stack/amplify-amplifyvuejs-dev-73631/99c950b0-4549-11ed-8086-0e85b3b7f3b9",
       "AmplifyAppId": "d1zqpbqiw2nht5"
+    },
+    "categories": {
+      "auth": {
+        "amplifyvuejsc68c20f8": {}
+      }
     }
   }
 }
